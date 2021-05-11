@@ -26,7 +26,6 @@ $ yarn server
 
 # The server will start on the port: 3333, and that is it, have fun :)
 ```
-```
 
 ### 🛠 Tools
 
